@@ -1,4 +1,10 @@
 # Parsa frontend coding task
+<p dir="rtl" align="right">
+محتویات این پروژه برای ارزیابی توانمندی توسعه دهنده‌های فرانت جهت همکاری با مجموعه پارسا است.
+
+لطفا پس از مطالعه دقیق، در طی زمان مشخص شده در ایمیلی که دریافت کردید، فایل نهایی را ارسال کنید.
+</p>
+
 The goal is to implement an application to manage working tasks. See the __[user stories](#user-stories)__ for the application details to be implemented.
 
 Send a zip file to us (https://parsa.tech.team@gmail.com) when you finished the task.
