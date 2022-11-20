@@ -1,7 +1,7 @@
 # Parsa frontend coding task
 The goal is to implement an application to manage working tasks. See the __[user stories](#user-stories)__ for the application details to be implemented.
 
-Clone this repository and create a zip file and send it to us when you finished the task.
+Send a zip file to us (https://parsa.tech.team@gmail.com) when you finished the task.
 
 # User stories
 * As a user I can create tasks, so that all tasks for a project can be tracked.
